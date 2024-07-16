@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(211, 211, 211);
+}
+
+h1 {
+    background-color: aliceblue;
+}
+
+.line2 {
+    color: rgb(146, 137, 141);
+}
+
+ul {
+    color: rgb(146, 137, 141);
+    display: inline-block;
+
+}
+
+
+
+li {
+    background-color: rgb(255, 255, 224);
+    padding: 2px;
+    margin: 1px;
+    color: rgb(34, 139, 34);
+
+}
+li:hover{
+    background-color:aqua;
+    color: blue;
+
+}
+.line3{
+    color:rgb(146, 137, 141) ;
+}
+
+.line4{
+    color: rgb(242, 195, 50);
+    background-color: rgb(255, 255, 240);
+}
+
+.line5{
+    color: rgb(146, 137, 141);
+}
